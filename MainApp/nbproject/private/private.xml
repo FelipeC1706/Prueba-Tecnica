@@ -2,15 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/MainApp.java</file>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/ConexionDB.java</file>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/RegistroSolicitudView.java</file>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/ListadoSolicitudesView.java</file>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/Solicitud.java</file>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/RegistroEstudianteView.java</file>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/GraficoSolicitudesView.java</file>
-            <file>file:/C:/Users/User/Documents/NetBeansProjects/MainApp/src/application/LoginView.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
